@@ -68,10 +68,10 @@ delay(1000);
 ![image](https://github.com/user-attachments/assets/942506d0-64e5-4798-9703-555c5b606ae9)
 
 ## OUTPUT:
-### LED OFF:
+### LED OFF MODE:
 ![image](https://github.com/user-attachments/assets/38bd8bc4-0691-421a-8687-8f26143bd02d)
 
-### LED ON :
+### LED ON MODE:
 ![image](https://github.com/user-attachments/assets/d8596fa9-df35-4dbf-96ec-d256ad82840e)
 
 
